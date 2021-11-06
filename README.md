@@ -17,11 +17,11 @@ Im a german developer normally i modify games. \
 <img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//php.svg"/>
 <img style="padding: 1.5px" align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//html5.svg"/>
 <img style="padding: 1.5px" align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//css.png"/>
-<img style="padding: 1.5px" align="left" alt="JavaScript" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//javascript.svg"/><br><br>
+<img style="padding: 1.5px" align="left" alt="JavaScript" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//javascript.svg"/><br>
 
 
 ### My IDEs
 
 <img style="padding: 1.5px" align="left" alt="JIntelliJ IDEA" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//intellij-idea.svg"/>
-<img style="padding: 1.5px" align="left" alt="PhpStorm" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//phpstorm.png"/>
-<img style="padding: 1.5px" align="left" alt="Visual Studio Code" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//visual-studio-code.svg"/>
+<img style="padding: 1.5px" align="left" alt="PhpStorm" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/main/assets/phpstorm.png"/>
+<img style="padding: 1.5px" align="left" alt="Visual Studio Code" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//visual-studio-code.svg"/><br>

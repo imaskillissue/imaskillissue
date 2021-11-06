@@ -1,16 +1,22 @@
-### Hi there 👋
+## About Me
+Hello im Emil know as Emzudemil. \
+Im a german developer normally i modify games. \
 
-<!--
-**Emzudemil/Emzudemil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects im currently working on
+- Game Engine using LWJGL3
+- Java Obfucator
+- Minecraft Hack Client using AI
 
-Here are some ideas to get you started:
+## My Languages, IDE and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Programming Languages 
+<img style="padding: 1.5px" align="left" alt="Java" width="16px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//java.svg"/> 
+<img style="padding: 1.5px" align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//kotlin.png"/>
+<img style="padding: 1.5px" align="left" alt="Lua" width="32px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//lua.png"/>
+<img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//php.svg"/>
+<img style="padding: 1.5px" align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//html5.svg"/>
+<img style="padding: 1.5px" align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//css.png"/>
+<img style="padding: 1.5px" align="left" alt="JavaScript" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//javascript.svg"/>
+
+
+### My IDEs

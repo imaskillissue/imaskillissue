@@ -3,10 +3,8 @@ Hello im Emil know as Emzudemil. \
 Im a german developer normally i modify games. \
 
 ## Projects im currently working on
-- Game Engine using LWJGL3
-- Java Obfucator
-- Minecraft Hack Client using AI
-- Fully customizable Website
+- A Hypixel Skyblock Client
+- A Java ScriptEngine
 
 ## My Languages and IDEs
 

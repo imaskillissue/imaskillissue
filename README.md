@@ -1,10 +1,10 @@
 ## About Me
 Hello im Emil know as Emzudemil. \
-Im a german developer normally i modify games. \
+Im a german developer normally i modify games.
 
 ## Projects im currently working on
 - A Hypixel Skyblock Client
-- A Java ScriptEngine
+- A Markdown Based Website using Kotlin
 
 ## My Languages and IDEs
 

@@ -1,25 +1,31 @@
 # Outdated updates Coming soon
 ## About Me
-Hello im Emil know as Emzudemil. \
-Im a german developer normally i modify games.
+Hello im Valo. \
+I enjoy programming video games (or messing around with games) and learning something new.
 
 ## Projects im currently working on
-- A Markdown Based Website using Kotlin
+- Custom Board Website
+- [BoltOS](https://github.com/bolt-sys)
 
 ## My Languages and IDEs
 
 ### My Programming Languages 
-<img style="padding: 1.5px" align="left" alt="Java" width="16px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//java.svg"/> 
-<img style="padding: 1.5px" align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//kotlin.png"/>
-<img style="padding: 1.5px" align="left" alt="Lua" width="32px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//lua.png"/>
-<img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//php.svg"/>
-<img style="padding: 1.5px" align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//html5.svg"/>
-<img style="padding: 1.5px" align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//css.png"/>
-<img style="padding: 1.5px" align="left" alt="JavaScript" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//javascript.svg"/><br>
+<img style="padding: 1.5px" allign="left" alt="Java" height="31px" src="assets/java.svg"/> 
+<img style="padding: 1.5px" allign="left" alt="Kotlin" height="31px" src="assets/kotlin.png"/>
+<img style="padding: 1.5px" allign="left" alt="Lua" height="31px" src="assets/lua.png"/>
+<img style="padding: 1.5px" allign="left" alt="PHP" height="31px" src="assets/php.svg"/>
+<img style="padding: 1.5px" allign="left" alt="PHP" height="31px" src="assets/c.svg"/>
+<img style="padding: 1.5px" allign="left" alt="PHP" height="31px" src="assets/cpp.svg"/>
+<img style="padding: 1.5px" allign="left" alt="PHP" height="31px" src="assets/cs.svg"/>
+<img style="padding: 1.5px" allign="left" alt="JavaScript" height="31px" src="assets/javascript.svg"/>
+
+<br>
 
 
-### My IDEs
-
-<img style="padding: 1.5px" align="left" alt="JIntelliJ IDEA" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//intellij-idea.svg"/>
-<img style="padding: 1.5px" align="left" alt="PhpStorm" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/main/assets/phpstorm.png"/>
-<img style="padding: 1.5px" align="left" alt="Visual Studio Code" width="31px" src="https://raw.githubusercontent.com/Emzudemil/Emzudemil/master/assets//visual-studio-code.svg"/><br>
+### Software i use often
+<img style="padding: 1.5px" allign="left" alt="Arch Linux" height="31px" src="assets/arch.svg">
+<img style="padding: 1.5px" allign="left" alt="JIntelliJ IDEA" height="31px" src="assets/intellij-idea.svg"/>
+<img style="padding: 1.5px" allign="left" alt="PhpStorm" height="31px" src="assets/phpstorm.png"/>
+<img style="padding: 1.5px" allign="left" alt="CLion" height="31px" src="assets/Clion.svg">
+<img style="padding: 1.5px" allign="left" alt="Godot" height="31px" src="assets/godot.svg">
+<img style="padding: 1.5px" allign="left" alt="Visual Studio Code" height="31px" src="assets//visual-studio-code.svg"/><br>

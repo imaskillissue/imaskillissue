@@ -17,9 +17,7 @@ I enjoy programming video games (or messing around with games) and learning some
 <img style="padding: 1.5px" allign="left" alt="PHP" height="31px" src="assets/c.svg"/>
 <img style="padding: 1.5px" allign="left" alt="PHP" height="31px" src="assets/cpp.svg"/>
 <img style="padding: 1.5px" allign="left" alt="PHP" height="31px" src="assets/cs.svg"/>
-<img style="padding: 1.5px" allign="left" alt="JavaScript" height="31px" src="assets/javascript.svg"/>
-
-<br>
+<img style="padding: 1.5px" allign="left" alt="JavaScript" height="31px" src="assets/javascript.svg"/><br>
 
 
 ### Software i use often
